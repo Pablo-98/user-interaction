@@ -1,0 +1,15 @@
+body{
+    background-color: green;
+}
+
+/* The below code is vital to this project. Do your best to visualize the logic here */
+.div-1{
+display: none;
+}
+.div-2{
+    display: none;
+}
+.active{
+    display: block;
+    border: solid red 15px;
+}
